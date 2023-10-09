@@ -12,7 +12,7 @@ Fun fact: I like to use 🖲️ more than 🖱️
 
 [Instagram](https://www.instagram.com/alexli0o/)
 
-[Youtube](https://www.youtube.com/@meeplematch2582) _Chinese & Cantonese only_
+[Youtube](https://www.youtube.com/@meeplematch2582) _(Chinese & Cantonese only)_
 
 <!---
 Alexcnli/Alexcnli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
