@@ -4,11 +4,12 @@ I’m interested in **playing Boardgames** ♟️, watching movies 🍿, reading
 
 **Boardgame Recommedation:** _Brass: Birmingham_ if you want something strategic; and _Camel Up_ if you want to play casually
 
-💻 I’m currently learning React.js and React native
-
 Fun fact: I like to use 🖲️ more than 🖱️
 
-📫 You can simply find me on my Instagram: _alexli0o_ & My Youtube Channel: _Meeple Match_ (Chinese & Cantonese only)
+**Links:**
+[My Profile](https://alexcnli.github.io/index.html)
+[Instagram](https://www.instagram.com/alexli0o/)
+[Youtube](https://www.youtube.com/@meeplematch2582) _Chinese & Cantonese only_
 
 <!---
 Alexcnli/Alexcnli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
