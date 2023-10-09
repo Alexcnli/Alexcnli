@@ -7,8 +7,11 @@ I’m interested in **playing Boardgames** ♟️, watching movies 🍿, reading
 Fun fact: I like to use 🖲️ more than 🖱️
 
 **Links:**
+
 [My Profile](https://alexcnli.github.io/index.html)
+
 [Instagram](https://www.instagram.com/alexli0o/)
+
 [Youtube](https://www.youtube.com/@meeplematch2582) _Chinese & Cantonese only_
 
 <!---
